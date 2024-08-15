@@ -1,0 +1,33 @@
+.status-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1050;
+  }
+  
+  .status-modal-content {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .status-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  
+  .status-modal-content p {
+    margin: 0;
+    font-size: 16px;
+  }
+  

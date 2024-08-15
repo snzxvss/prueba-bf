@@ -1,0 +1,33 @@
+.jwt-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+  }
+  
+  .jwt-modal-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 300px;
+  }
+  
+  .jwt-icon {
+    font-size: 3rem;
+    color: #dc3545;
+    margin-bottom: 10px;
+  }
+  
+  .jwt-modal-content p {
+    margin: 0;
+    font-size: 1rem;
+    color: #343a40;
+  }
+  

@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\monedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\monedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\jwtvalidationfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:jwtvalidationfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\monedas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\monedas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\monedas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\monedas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\registro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\registro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\registro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\registro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\registro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\registro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\registro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\registro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\registro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:views\\registro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:00:37.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Moneda.cs",
+              "RelativeDocumentMoniker": "Models\\Moneda.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Moneda.cs",
+              "RelativeToolTip": "Models\\Moneda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T23:24:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\JwtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JwtController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\JwtController.cs",
+              "RelativeToolTip": "Controllers\\JwtController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwDoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:03:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Controllers\\RegistroController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:28:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonedasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\MonedasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonedasController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\MonedasController.cs",
+              "RelativeToolTip": "Controllers\\MonedasController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:16:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\CrudContext.cs",
+              "RelativeDocumentMoniker": "Models\\CrudContext.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\CrudContext.cs",
+              "RelativeToolTip": "Models\\CrudContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:57:49.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Registro.cs",
+              "RelativeToolTip": "Models\\Registro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:14:13.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtValidationFilter.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\JwtValidationFilter.cs.cs",
+              "RelativeDocumentMoniker": "JwtValidationFilter.cs.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\JwtValidationFilter.cs.cs",
+              "RelativeToolTip": "JwtValidationFilter.cs.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:25:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Monedas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Monedas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Monedas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Monedas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:27:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Monedas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Monedas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Monedas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Monedas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:26:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T21:58:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend.http",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\backend.http",
+              "RelativeToolTip": "backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T02:36:58.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T02:36:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T02:37:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Index.cshtml",
+              "RelativeToolTip": "Views\\Registro\\Index.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T23:22:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Create.cshtml",
+              "RelativeToolTip": "Views\\Registro\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T23:22:15.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Registro\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T23:22:48.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Details.cshtml",
+              "RelativeToolTip": "Views\\Registro\\Details.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T23:22:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registro\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Views\\Registro\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Registro\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T23:22:26.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
