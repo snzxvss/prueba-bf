@@ -16,17 +16,21 @@ namespace backend.Controllers
     {
         private readonly CrudContext _context;
         private readonly IConfiguration _configuration;
+        private readonly ILogger<AuthController> _logger;
 
-        public AuthController(CrudContext context, IConfiguration configuration)
+        public AuthController(CrudContext context, IConfiguration configuration, ILogger<AuthController> logger)
         {
             _context = context;
             _configuration = configuration;
+            _logger = logger;
         }
 
         // POST: api/Auth/Login
         [HttpPost("Login")]
         public IActionResult Login([FromBody] LoginRequest loginRequest)
         {
+            _logger.LogDebug("Inicio de Login para Identificación: {Identificacion}", loginRequest.Identificacion);
+
             var ident = new SqlParameter("@Identificacion", loginRequest.Identificacion);
 
             var user = _context.Registros
@@ -36,6 +40,8 @@ namespace backend.Controllers
 
             if (user == null)
             {
+                _logger.LogWarning("Login fallido para Identificación: {Identificacion}", loginRequest.Identificacion);
+
                 // Crear un objeto JSON con el código y el estado
                 var errorResponse = new
                 {
@@ -43,8 +49,12 @@ namespace backend.Controllers
                     Status = "Identificación inválida"
                 };
 
+                _logger.LogDebug("Fin de Login con error: Identificación inválida");
+
                 return Unauthorized(errorResponse);
             }
+
+            _logger.LogDebug("Login exitoso para Identificación: {Identificacion}", loginRequest.Identificacion);
 
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
@@ -69,6 +79,9 @@ namespace backend.Controllers
 
             var token = tokenHandler.CreateToken(tokenDescriptor);
             var tokenString = tokenHandler.WriteToken(token);
+
+            _logger.LogDebug("Token generado correctamente para Identificación: {Identificacion}", user.Identificacion);
+            _logger.LogDebug("Fin de Login exitoso");
 
             return Ok(new
             {

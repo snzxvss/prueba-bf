@@ -256,3 +256,4 @@ C:\Users\Sanz\Documents\Canguro International\backend\obj\Debug\net8.0\backend.p
 C:\Users\Sanz\Documents\Canguro International\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\Sanz\Documents\Canguro International\backend\obj\Debug\net8.0\ref\backend.dll
 C:\Users\Sanz\Documents\Canguro International\backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sanz\Documents\Canguro International\backend\obj\Debug\net8.0\backend.sourcelink.json

@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\monedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\jwtvalidationfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:jwtvalidationfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|solutionrelative:controllers\\jwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABB0DBF-AB20-4C27-98B2-607A335532BB}|backend.csproj|c:\\users\\sanz\\documents\\canguro international\\backend\\views\\monedas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,7 +90,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -99,12 +99,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T22:00:37.59Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Moneda.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Moneda.cs",
               "RelativeDocumentMoniker": "Models\\Moneda.cs",
@@ -112,31 +111,30 @@
               "RelativeToolTip": "Models\\Moneda.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:24:39.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:24:39.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "JwtController.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\JwtController.cs",
               "RelativeDocumentMoniker": "Controllers\\JwtController.cs",
               "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\JwtController.cs",
               "RelativeToolTip": "Controllers\\JwtController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAYwDoAAABiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T01:03:59.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RegistroController.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\RegistroController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
               "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\RegistroController.cs",
               "RelativeToolTip": "Controllers\\RegistroController.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAowAMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T22:28:45.301Z",
               "EditorCaption": ""
@@ -149,14 +147,14 @@
               "RelativeDocumentMoniker": "Controllers\\MonedasController.cs",
               "ToolTip": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Controllers\\MonedasController.cs",
               "RelativeToolTip": "Controllers\\MonedasController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEsAAAA6AAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T19:16:31.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CrudContext.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\CrudContext.cs",
               "RelativeDocumentMoniker": "Models\\CrudContext.cs",
@@ -164,12 +162,11 @@
               "RelativeToolTip": "Models\\CrudContext.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:57:49.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T21:57:49.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\Models\\Registro.cs",
               "RelativeDocumentMoniker": "Models\\Registro.cs",
@@ -177,12 +174,11 @@
               "RelativeToolTip": "Models\\Registro.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T22:14:13.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T22:14:13.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "JwtValidationFilter.cs.cs",
               "DocumentMoniker": "C:\\Users\\Sanz\\Documents\\Canguro International\\backend\\JwtValidationFilter.cs.cs",
               "RelativeDocumentMoniker": "JwtValidationFilter.cs.cs",
@@ -190,8 +186,7 @@
               "RelativeToolTip": "JwtValidationFilter.cs.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAYwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T02:25:32.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T02:25:32.531Z"
             },
             {
               "$type": "Document",
@@ -203,8 +198,7 @@
               "RelativeToolTip": "Views\\Monedas\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T19:27:22.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T19:27:22.682Z"
             },
             {
               "$type": "Document",
@@ -216,8 +210,7 @@
               "RelativeToolTip": "Views\\Monedas\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T19:26:58.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T19:26:58.01Z"
             },
             {
               "$type": "Document",
@@ -229,8 +222,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T21:58:53.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T21:58:53.806Z"
             },
             {
               "$type": "Document",
@@ -254,8 +246,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-14T02:36:52.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T02:36:52.471Z"
             },
             {
               "$type": "Document",
@@ -279,8 +270,7 @@
               "RelativeToolTip": "Views\\Registro\\Index.cshtml",
               "ViewState": "AQIAACMAAAAAAAAAAAAIwCwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T23:22:51.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:22:51.659Z"
             },
             {
               "$type": "Document",
@@ -292,8 +282,7 @@
               "RelativeToolTip": "Views\\Registro\\Create.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T23:22:15.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:22:15.025Z"
             },
             {
               "$type": "Document",
@@ -305,8 +294,7 @@
               "RelativeToolTip": "Views\\Registro\\Edit.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T23:22:48.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:22:48.986Z"
             },
             {
               "$type": "Document",
@@ -318,8 +306,7 @@
               "RelativeToolTip": "Views\\Registro\\Details.cshtml",
               "ViewState": "AQIAABoAAAAAAAAAAAAYwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T23:22:41.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:22:41.336Z"
             },
             {
               "$type": "Document",
@@ -331,8 +318,7 @@
               "RelativeToolTip": "Views\\Registro\\Delete.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T23:22:26.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T23:22:26.404Z"
             }
           ]
         }
